@@ -1,0 +1,27 @@
+{
+    "name": "@omostan/angularjs-custom-triStateCheckbox",
+    "version": "1.0.0",
+    "description": "AngularJS tri-State checkbox directive originally developed by [Stephen Long](https://github.com/long2know/angular-directives-general) for his blog. Due to the fact that I have made several changes to the directive and my recent decision to move to the new Angular 8, I have decided to move this custom version of the original to npm repository.",
+    "author": "Stanley Omoregie",
+	"credits": "All credits to [Stephen Long](https://github.com/long2know/angular-directives-general) for devoloping the original version of this directive.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/omostan/angularjs-custom-triStateCheckbox.git"
+    },
+    "homepage": "https://github.com/omostan/angularjs-custom-triStateCheckbox",
+    "main": "angularjs-custom-triStateCheckbox.min.js",
+    "keywords": [
+        "angular",
+        "angularjs",
+        "angular-js",
+        "directive",
+        "triStateCheckbox",
+        "tri-State-Checkbox",
+        "tri-state",
+        "checkbox"
+    ],
+    "license": "[Apache license 2.0](https://github.com/long2know/angular-directives-general/blob/master/LICENSE.md)",
+    "peerDependencies": {
+        "angular": "^1.5.0"
+    }
+}
