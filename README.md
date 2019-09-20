@@ -3,3 +3,6 @@ AngularJS Tri-State Checkbox directive originally developed by [Stephen Long](ht
 
 # Credits
 All credits to [Stephen Long](https://github.com/long2know/angular-directives-general) for devoloping the original version of this directive.
+
+### Copyright and license
+Code copyright 2015-2016 Stephen Long.  Code released under the [Apache license](https://github.com/long2know/angular-directives-general/blob/master/LICENSE.md)
